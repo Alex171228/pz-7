@@ -259,23 +259,7 @@ if port == "" {
 
 ## 7. Демонстрация
 
-**1. Сборка Docker-образа:**
+Проверка работоспособности контейнера через эндпоинт `/health`:
 
-<!-- ![Docker build](docs/images/pz7_build.png) -->
 
-**2. Список образов (`docker images`):**
-
-<!-- ![Docker images](docs/images/pz7_images.png) -->
-
-**3. Запуск через Docker Compose (`docker compose up`):**
-
-<!-- ![Compose up](docs/images/pz7_compose_up.png) -->
-
-**4. Проверка /health:**
-
-<!-- ![Health check](docs/images/pz7_health.png) -->
-
-**5. `docker compose ps` — контейнеры работают:**
-
-<!-- ![Compose ps](docs/images/pz7_compose_ps.png) -->
 
