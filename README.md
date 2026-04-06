@@ -261,5 +261,7 @@ if port == "" {
 
 Проверка работоспособности контейнера через эндпоинт `/health`:
 
+<img width="478" height="150" alt="image" src="https://github.com/user-attachments/assets/accac27f-efb1-4e67-844c-83d38215ed9b" /> 
+
 
 
